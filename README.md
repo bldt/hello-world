@@ -1,3 +1,2 @@
 # hello-world
-Just me
-Tjena!
+Just another repository
